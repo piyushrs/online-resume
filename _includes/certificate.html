@@ -20,11 +20,11 @@
 
         {%- if item.name %}
         <div class="row">
-          <u><div class="certificate-name"></div></u>
+          <div class="certificate-name"></div>
             {%- if item.link %}
             <a href="{{ item.link }}">{{ item.name }}</a>
             {%- else %}
-            <span>{{ item.name }}</span>
+            <span><u>{{ item.name }}</span></u>
             {%- endif %}
           </div>
         </div>
