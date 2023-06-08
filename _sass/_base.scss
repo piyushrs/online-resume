@@ -241,7 +241,7 @@ small {
         .item {
           display: inline-flex;
           align-items: center;
-          justify-content: flex-start;
+          justify-content: end;
           flex-basis: 30%;
 
           .skill-name::after {
@@ -281,7 +281,7 @@ small {
           .group-item {
             display: flex;
             flex-wrap: wrap;
-            justify-content: end;
+            justify-content: flex-start;
             flex-basis: 80%;
 
             span:not(:last-child)::after {
