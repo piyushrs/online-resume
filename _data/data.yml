@@ -216,13 +216,13 @@ education:
   items:
     - institution: The University of Texas at Dallas
       link: 'https://www.utdallas.edu/'
-      date: January 2022 - December 2023
+      # date: January 2022 - December 2023
       major: Business Analytics - Data Science Track
       degree: MS
 
     - institution: Manipal Institute of Technology
       link: 'https://manipal.edu/mit.html'
-      date: August 2014 - July 2018
+      # date: August 2014 - July 2018
       major: Computers and Communication Engineering
       degree: B.Tech
 
