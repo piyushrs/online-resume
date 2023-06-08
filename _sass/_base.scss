@@ -224,6 +224,7 @@ small {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
+        text-decoration-line: underline;
 
         .item {
           flex-basis: 45%;
