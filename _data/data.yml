@@ -245,6 +245,7 @@ certificate:
     - name: ACCELQ Automation Engineer
       issuer: by ACCELQ
       date: April 2023
+      link: 'https://drive.google.com/file/d/1gRePCQDsZXVp5-L85jsUreaG6SnrVoLU/view?usp=sharing'
 
     - name: ACCELQ UTD Automation Hackathon
       issuer: ACCELQ
@@ -259,6 +260,7 @@ certificate:
     - name: Applied Machine Learning
       issuer: by UTD
       date: May 2023
+      link: 'https://drive.google.com/file/d/18ojQXQSyiGd2ch_AuJsvagVZcRdwPFyQ/view?usp=sharing'
 
 publication:
   show: false
