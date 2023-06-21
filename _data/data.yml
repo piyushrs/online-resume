@@ -178,7 +178,7 @@ skill:
         - R
         - Tableau
         - PowerBi
-        - Splunk
+        - Splunk Enterprise
     - name: Cloud Technologies
       item:
         - Azure (Databricks, Data Factory, Access and Identity Management, Blob Storage)
