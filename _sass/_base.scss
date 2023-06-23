@@ -220,11 +220,11 @@ small {
     .section-content {
       .items {
         display: flex;
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
         justify-content: space-between;
 
         .item{
-          flex-basis: 45%;
+          flex-basis: auto;
         }
       }
     }
@@ -236,7 +236,7 @@ small {
     .section-content {
       .items {
         display: flex;
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
         justify-content: space-between;
         
 
