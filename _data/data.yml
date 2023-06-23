@@ -237,8 +237,6 @@ certificate:
       issuer: by Coursera
       date: May 2023
       link: 'https://www.credly.com/badges/1360b120-349c-47b7-af8c-3ef000e7004e/public_url'
-    
-    - name: Google Cybersecurity (in Progress)
 
     - name: UiPath RPA Business Analyst
       issuer: by UiPath
@@ -264,6 +262,10 @@ certificate:
       issuer: by UTD
       date: May 2023
       link: 'https://drive.google.com/file/d/18ojQXQSyiGd2ch_AuJsvagVZcRdwPFyQ/view?usp=sharing'
+
+    - name: Google Cybersecurity
+      issuer: by Coursera
+      date: In Progress
 
 publication:
   show: false
