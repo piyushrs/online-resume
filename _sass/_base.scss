@@ -224,7 +224,8 @@ small {
         justify-content: space-between;
 
         .item{
-          flex-basis: 25%;
+          flex-basis: 24%;
+          padding-right: 10px;
         }
       }
     }
