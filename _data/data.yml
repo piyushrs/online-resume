@@ -93,7 +93,7 @@ experience:
       # tags: Full-time
       date: January 2019 - December 2021
       role: Senior Systems Engineer
-      location: Bengaluru, India
+      # location: Bengaluru, India
       description: |
         + Developed data pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
         + Conducted various SQL operations, including DML, DDL, and DCL, to create custom tables that met client specifications.
@@ -107,7 +107,7 @@ experience:
       # tags: Internship
       date: January 2018 - July 2018
       role: Web Developer Intern
-      location: Delhi, India
+      # location: Delhi, India
       description: |
         + Developed 15 efficient REST APIs to fetch information from a MySQL database for the updated website at a faster rate, resulting in a 2x increase in website traffic.
         + Designed and implemented 5 MySQL tables using RSA encryption to securely store company data, reducing the risk of data breaches by 90%.
@@ -119,7 +119,7 @@ experience:
       # tags: Internship
       date: May 2017 - June 2017
       role: Python Developer Intern
-      location: Mumbai, India
+      # location: Mumbai, India
       description: |
         + Designed and implemented a fraud detection system using image recognition and machine learning for eCommerce platforms.
         + Created a training model using the tesseract library to recognize text in images, with a focus on 40 commonly used fonts.
