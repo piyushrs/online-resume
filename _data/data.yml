@@ -265,7 +265,8 @@ certificate:
 
     - name: Google Cybersecurity
       issuer: by Coursera
-      date: In Progress
+      date: July 2023
+      link: 'https://www.credly.com/badges/5d0d2441-98a2-4a63-90a3-ee2ee5a26aed/public_url'
 
 publication:
   show: false
