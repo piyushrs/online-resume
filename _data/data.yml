@@ -81,7 +81,7 @@ profile:
   show: true
   order: 1
   title: Summary
-  description: Available to start full-time roles from December 2023.
+  description: Graduating in December 2023 and looking to join a company long-term to grow in.
     
 experience:
   show: true
@@ -92,7 +92,7 @@ experience:
       link: 'https://www.infosys.com/'
       # tags: Full-time
       date: January 2019 - December 2021
-      role: Senior Systems Engineer
+      role: Senior Systems Engineer (Full Time)
       # location: Bengaluru, India
       description: |
         + Developed data pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
@@ -106,7 +106,7 @@ experience:
       link: 
       # tags: Internship
       date: January 2018 - July 2018
-      role: Web Developer Intern
+      role: Web Developer Intern (Internship)
       # location: Delhi, India
       description: |
         + Developed 15 efficient REST APIs to fetch information from a MySQL database for the updated website at a faster rate, resulting in a 2x increase in website traffic.
@@ -118,7 +118,7 @@ experience:
       link: 'https://iksula.com/'
       # tags: Internship
       date: May 2017 - June 2017
-      role: Python Developer Intern
+      role: Python Developer Intern (Internship)
       # location: Mumbai, India
       description: |
         + Designed and implemented a fraud detection system using image recognition and machine learning for eCommerce platforms.
@@ -217,7 +217,7 @@ education:
   items:
     - institution: The University of Texas at Dallas
       link: 'https://www.utdallas.edu/'
-      date: January 2022 - December 2023
+      date: Graduation December 2023
       major: Business Analytics - Data Science Track
       degree: MS
 
