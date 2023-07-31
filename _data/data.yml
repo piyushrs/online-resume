@@ -157,11 +157,7 @@ project:
     # - name: Classification of dog breeds in Images - Deep Learning
     #   # tags: Deep Learning
     #   date: August 2022 - December 2022
-    #   description: |
-         	# Participated in a deep learning competition on Kaggle for classifying dog breeds from images using different models like convnext and resnet variations.
-         	# Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results.
-         	# Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model.
-         	# Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
+    #   description: Participated in a deep learning competition on Kaggle for classifying dog breeds from images using different models like convnext and resnet variations. Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model. Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
 
 
 
