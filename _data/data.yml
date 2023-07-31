@@ -9,7 +9,7 @@ contact:
   location: Richardson, TX # location
   email: piyushraisinghani09@gmail.com    # email address
   phone: +1 945-444-0742 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: linkedin.com/in/piyush-raisinghani/     # site URL without schema, like example.com, will automatically prepand "https://"
+  # website: linkedin.com/in/piyush-raisinghani/     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -58,7 +58,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  #linkedin: piyush-raisinghani # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -81,7 +81,8 @@ profile:
   show: true
   order: 1
   title: Summary
-  description: Graduating in December 2023 and looking to join a company long-term to grow in.
+  # description: Graduating in December 2023 and looking to join a company long-term to grow in.
+  description: Experienced IT professional actively seeking DBA roles in cloud services, leveraging 5+ years of expertise across diverse domains of the industry. Proficient in managing and optimizing database systems.
     
 experience:
   show: true
@@ -95,8 +96,9 @@ experience:
       role: Senior Systems Engineer (Full Time)
       # location: Bengaluru, India
       description: |
-        + Developed data pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
+        + Developed data pipelines in Azure Data Factory to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
         + Conducted various SQL operations, including DML, DDL, and DCL, to create custom tables that met client specifications.
+        + Developed Spark code using Scala and Spark-SQL/Streaming for faster testing and processing of data.
         + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, saving 2 man days per week.
         + Ensured 100% data quality by preprocessing and error-checking data on Azure Databricks using Scala and Python.
         + Packaged 15 data pipelines using CI/CD process, resulting in 100% reduction in human errors.
@@ -182,6 +184,8 @@ skill:
     - name: Cloud Technologies
       item:
         - Azure (Databricks, Data Factory, Access and Identity Management, Blob Storage)
+        - AWS (Simple Storage Service, Redshift, Elastic Compute Cloud)
+        - Terraform
     - name: Database Technologies
       item:
         - Oracle
