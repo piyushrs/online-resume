@@ -58,7 +58,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  #linkedin: piyush-raisinghani # username          | https://linkedin.com/in/username
+  linkedin: piyush-raisinghani # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -81,8 +81,8 @@ profile:
   show: true
   order: 1
   title: Summary
-  # description: Graduating in December 2023 and looking to join a company long-term to grow in.
-  description: Experienced IT professional actively seeking DBA roles in cloud services, leveraging 5+ years of expertise across diverse domains of the industry. Proficient in managing and optimizing database systems.
+  description: Graduating in December 2023 and looking to join a company long-term to grow in.
+  # description: Experienced IT professional actively seeking DBA roles in cloud services, leveraging 5+ years of expertise across diverse domains of the industry. Proficient in managing and optimizing database systems.
     
 experience:
   show: true
@@ -154,10 +154,14 @@ project:
         +	Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance and our findings.
         + Developed an ensemble custom machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
     
-    # - name: Classification of dog breeds in Images - Deep Learning
-    #   # tags: Deep Learning
-    #   date: August 2022 - December 2022
-    #   description: Participated in a deep learning competition on Kaggle for classifying dog breeds from images using different models like convnext and resnet variations. Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model. Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
+    - name: Classification of dog breeds in Images - Deep Learning
+      # tags: Deep Learning
+      date: August 2022 - December 2022
+      description: |
+        + Participated in a deep learning competition on Kaggle for classifying dog breeds from images using different models like convnext and resnet variations. 
+        + Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. 
+        + Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model. 
+        + Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
 
 
 
@@ -182,8 +186,7 @@ skill:
     - name: Cloud Technologies
       item:
         - Azure (Databricks, Data Factory, Access and Identity Management, Blob Storage)
-        - AWS (Simple Storage Service, Redshift, Elastic Compute Cloud)
-        - Terraform
+
     - name: Database Technologies
       item:
         - Oracle
