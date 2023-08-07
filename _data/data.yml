@@ -98,13 +98,13 @@ experience:
       description: |
         + Developed data pipelines in Azure Data Factory to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
         + Conducted various SQL operations, including DML, DDL, and DCL, to create custom tables that met client specifications.
-        + Developed Spark code using Scala and Spark-SQL/Streaming for faster testing and processing of data.
+       # + Developed Spark code using Scala and Spark-SQL/Streaming for faster testing and processing of data.
         + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, saving 2 man days per week.
         + Ensured 100% data quality by preprocessing and error-checking data on Azure Databricks using Scala and Python.
         + Packaged 15 data pipelines using CI/CD process, resulting in 100% reduction in human errors.
         + Coordinated with clients to identify project requirements and created new entries in Azure DevOps to facilitate project management.
-        + Collaborated in an Agile team using Azure DevOps for project management and version control, ensuring effective collaboration, and streamlined development processes.
-        + Utilized Power BI for data visualization and creating informative dashboards, enabling easy and interactive data analysis and presentation.
+      #  + Collaborated in an Agile team using Azure DevOps for project management and version control, ensuring effective collaboration, and streamlined development processes.
+      #  + Utilized Power BI for data visualization and creating informative dashboards, enabling easy and interactive data analysis and presentation.
 
     - company: IndiaReads Ltd
       link: 
