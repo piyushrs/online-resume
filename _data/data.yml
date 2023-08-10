@@ -93,7 +93,7 @@ experience:
       link: 'https://www.infosys.com/'
       # tags: Full-time
       date: January 2019 - December 2021
-      role: Senior Systems Engineer (Full Time)
+      role: Senior Systems Engineer (Data Engineer, Full Time)
       # location: Bengaluru, India
       description: |
         + Developed data pipelines in Azure Data Factory to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
