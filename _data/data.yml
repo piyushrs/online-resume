@@ -96,7 +96,7 @@ experience:
       role: Data Engineer (Full Time)
       # location: Bengaluru, India
       description: |
-        + Developed data pipelines in Azure Data Factory to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
+        + Developed ETL pipelines in Azure Data Factory to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
         + Conducted various SQL operations to create and modify custom tables that met client specifications.
         + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, saving 2 man days per week.
         + Ensured 100% data quality by preprocessing and error-checking data on Azure Databricks using Scala and Python.
