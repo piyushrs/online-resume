@@ -92,7 +92,7 @@ experience:
     - company: Infosys Ltd
       link: 'https://www.infosys.com/'
       # tags: Full-time
-      date: January 2019 - December 2021
+      date: Jan 2019 - Dec 2021
       role: Data Engineer (Full Time)
       # location: Bengaluru, India
       description: |
@@ -106,7 +106,7 @@ experience:
     - company: IndiaReads Ltd
       link: 
       # tags: Internship
-      date: January 2018 - July 2018
+      date: Jan 2018 - Jul 2018
       role: Web Developer Intern (Internship)
       # location: Delhi, India
       description: |
@@ -118,7 +118,7 @@ experience:
     - company: Iksula Services
       link: 'https://iksula.com/'
       # tags: Internship
-      date: May 2017 - June 2017
+      date: May 2017 - Jun 2017
       role: Python Developer Intern (Internship)
       # location: Mumbai, India
       description: |
@@ -135,25 +135,25 @@ project:
   description: 
 
   items:
-    - name: Blood Donation Database Management - DBMS
+    - name: Blood Donation Database Management
       # tags: MySQL
-      date: May 2022 - July 2022
+      date: May 2022 - Jul 2022
       description: |
         + Designed a patient and donor record management system consisting of 17 tables normalized up to the third form.
         +	Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency.
 
 
-    - name: Spam URL filtering - Applied Machine Learning
+    - name: Spam URL filtering
       # tags: Applied Machine Learning
-      date: August 2022 - December 2022
+      date: Aug 2022 - Dec 2022
       description: |
         +	Conducted data cleaning, normalization, and preprocessing using Python on 60,000 rows of data for spam and non-spam email classification sender URLs.
         +	Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance and our findings.
         + Developed an ensemble custom machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
     
-    - name: Classification of dog breeds in Images - Deep Learning
+    - name: Deep Learning Image Classification of Dog Breeds
       # tags: Deep Learning
-      date: August 2022 - December 2022
+      date: Aug 2022 - Dec 2022
       description: |
         + Participated in a deep learning competition on Kaggle for classifying dog breeds from images using different models like convnext and resnet variations. 
         + Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. 
@@ -220,14 +220,12 @@ education:
     - institution: The University of Texas at Dallas
       link: 'https://www.utdallas.edu/'
       date: Graduation December 2023
-      major: Business Analytics - Data Science Track
-      degree: MS
+      major: M.S. Business Analytics - Data Science Track
 
     - institution: Manipal Institute of Technology
       link: 'https://manipal.edu/mit.html'
-      date: August 2014 - July 2018
-      major: Computers and Communication Engineering
-      degree: B.Tech
+      date: Aug 2014 - Jul 2018
+      major: B.Tech. Computers and Communication Engineering
 
 certificate:
   show: true
@@ -242,17 +240,17 @@ certificate:
 
     - name: UiPath RPA Business Analyst
       issuer: by UiPath
-      date: March 2023
+      date: Mar 2023
       link: 'https://cloud.contentraven.com/crdownloadfiles/index.aspx?act=8MH4sSWyowEaN0eXRAsy+A__&id=8L7VtSjxBqI_'
     
     - name: ACCELQ Automation Engineer
       issuer: by ACCELQ
-      date: April 2023
+      date: Apr 2023
       link: 'https://drive.google.com/file/d/1gRePCQDsZXVp5-L85jsUreaG6SnrVoLU/view?usp=sharing'
 
     - name: ACCELQ UTD Automation Hackathon
       issuer: ACCELQ
-      date: April 2023
+      date: Apr 2023
       link: 'https://certificate.accelq.com/verify/967386015863'
 
     - name: Altyerx Foundational Micro-Credential
@@ -267,7 +265,7 @@ certificate:
 
     - name: Google Cybersecurity
       issuer: by Coursera
-      date: July 2023
+      date: Jul 2023
       link: 'https://www.credly.com/badges/5d0d2441-98a2-4a63-90a3-ee2ee5a26aed/public_url'
 
 publication:
