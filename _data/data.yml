@@ -96,12 +96,12 @@ experience:
       role: Data Engineer (Full Time)
       # location: Bengaluru, India
       description: |
-        + Developed ETL pipelines in Azure Data Factory to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase in data retrieval speed for the client.
+        + Developed ETL pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase of information retrieval speed for the client.
         + Conducted various SQL operations to create and modify custom tables that met client specifications.
         + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, saving 2 man days per week.
-        + Ensured 100% data quality by preprocessing and error-checking data on Azure Databricks using Scala and Python.
+        + Ensured 100% data quality through preprocessing and error-checking on Azure Databricks in Scala and Python.
         + Packaged 15 data pipelines using CI/CD process, resulting in 100% reduction in human errors.
-        + Coordinated with clients to identify project requirements and created new entries in Azure DevOps to facilitate project management.
+        + Collaborated with clients and cross-functional teams to identify project requirements and created new entries in Azure DevOps to facilitate project management.
 
     - company: IndiaReads Ltd
       link: 
@@ -112,7 +112,8 @@ experience:
       description: |
         + Developed 15 efficient REST APIs to fetch information from a MySQL database for the updated website at a faster rate, resulting in a 2x increase in website traffic.
         + Designed and implemented 5 MySQL tables using RSA encryption to securely store company data, reducing the risk of data breaches by 90%.
-        + Implemented version control using BitBucket to enable continuous collaborative development and improve team efficiency by a factor of 2.
+        + Implemented version control via BitBucket to enable continuous collaborative development and improve team efficiency by a factor of 2.
+
 
 
     - company: Iksula Services
@@ -123,8 +124,8 @@ experience:
       # location: Mumbai, India
       description: |
         + Designed and implemented a fraud detection system using image recognition and machine learning for eCommerce platforms.
-        + Created a training model using the tesseract library to recognize text in images, with a focus on 40 commonly used fonts.
-        + Built a training set of images with text embedded in them to optimize the model’s performance.
+        + Developed a training model employing the tesseract library for text recognition in images, with a focus on 40 commonly used fonts.
+        + Compiled a comprehensive training dataset consisting of images containing embedded text to enhance the model's performance.
         + Developed an automated email spam filter script in Python, causing a 1-hour weekly time savings for manual tasks.
 
 
@@ -147,9 +148,9 @@ project:
       # tags: Applied Machine Learning
       date: Aug 2022 - Dec 2022
       description: |
-        +	Conducted data cleaning, normalization, and preprocessing using Python on 60,000 rows of data for spam and non-spam email classification sender URLs.
-        +	Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance and our findings.
-        + Developed an ensemble custom machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
+        +	Performed data cleaning, normalization, and preprocessing in Python on 60,000 rows for spam and non-spam email classification sender URLs.
+        +	Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance our findings.
+        + Developed an custom ensemble machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
     
     - name: Deep Learning Image Classification of Dog Breeds
       # tags: Deep Learning
