@@ -157,9 +157,10 @@ small {
 
       .date,
       .location{
-        color: $text-third-color;
+        // color: $text-third-color;
+        font-weight: $base-font-weight
       }
-      
+
       .degree {
         font-weight: $base-font-weight * 1.50
       }
