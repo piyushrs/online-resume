@@ -97,11 +97,11 @@ experience:
       # location: Bengaluru, India
       description: |
         + Developed ETL pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase of information retrieval speed for the client.
-        + Conducted various SQL operations to create and modify custom tables that met client specifications.
+        + Performed intricate SQL operations, including JOINs, Window, and Aggregate functions, to design and tailor custom tables to align with client specifications.
         + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, saving 2 man days per week.
         + Ensured 100% data quality through preprocessing and error-checking on Azure Databricks in Scala and Python.
-        + Packaged 15 data pipelines using CI/CD process, resulting in 100% reduction in human errors.
-        + Collaborated with clients and cross-functional teams to identify project requirements and created new entries in Azure DevOps to facilitate project management.
+        + Facilitated automated promotion of 4 ETL pipelines from Dev to Prod environment leveraging custom YAML Azure DevOps pipelines saving ~2 hours in manual effort per ETL pipeline.
+        + Collaborated with cross-functional teams, including product, development, operations, and clients, to define project requirements and documented them in Azure DevOps Boards.
 
     - company: IndiaReads Ltd
       link: 
@@ -156,7 +156,6 @@ project:
       # tags: Deep Learning
       date: Aug 2022 - Dec 2022
       description: |
-        + Participated in a deep learning competition on Kaggle for classifying dog breeds from images using different models like convnext and resnet variations. 
         + Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. 
         + Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model. 
         + Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
@@ -173,17 +172,18 @@ skill:
       item:
         - Python
         - Scala
-        - C++
-    - name: Analytical/ Reporting Software
+        - R
+        - VBA
+    - name: Tools
       item:
         - SAS
-        - R
+        - Azure Cloud
         - Tableau
         - PowerBi
         - Splunk Enterprise
-    - name: Cloud Technologies
-      item:
-        - Azure (Databricks, Data Factory, Access and Identity Management, Blob Storage)
+    # - name: Cloud Technologies
+    #   item:
+    #     - Azure (Databricks, Data Factory, Access and Identity Management, Blob Storage)
 
     - name: Database Technologies
       item:
@@ -191,16 +191,13 @@ skill:
         - MS SQL Server
         - MySQL
         - MongoDB
-    - name: Python Libraries
+    - name: Statistical Methods
       item: 
-        - PyTorch
-        - scikit-learn
-        - NumPy
-        - Matplotlib
-        - Fast.ai
-        - Pillow (PIL Fork)
-        - seaborn
-        - WandB
+        - Hypothesis Testing
+        - ANOVA
+        - Cross Validation
+        - Principal Component Analysis
+        - Exploratory Data Analysis
     - name: Machine Learning Algorithms
       item:
         - Linear/Logistic Regression
