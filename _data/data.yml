@@ -181,6 +181,8 @@ skill:
         - Tableau
         - PowerBi
         - Splunk Enterprise
+        - Hadoop/Hive
+        - MS Office Suite
     # - name: Cloud Technologies
     #   item:
     #     - Azure (Databricks, Data Factory, Access and Identity Management, Blob Storage)
