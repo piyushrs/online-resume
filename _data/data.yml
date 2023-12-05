@@ -103,30 +103,39 @@ experience:
         + Facilitated automated promotion of 4 ETL pipelines from Dev to Prod environment leveraging custom YAML Azure DevOps pipelines saving ~2 hours in manual effort per ETL pipeline.
         + Collaborated with cross-functional teams, including product, development, operations, and clients, to define project requirements and documented them in Azure DevOps Boards.
 
-    - company: IndiaReads Ltd
+    - company: Imperium Data Networks
       link: 
-      # tags: Internship
-      date: Jan 2018 - Jul 2018
-      role: Web Developer Intern (Internship)
-      # location: Delhi, India
+      date: Aug 2023 - Nov 2023
+      role: Data Analyst Intern (Internship)
       description: |
-        + Developed 15 efficient REST APIs to fetch information from a MySQL database for the updated website at a faster rate, resulting in a 2x increase in website traffic.
-        + Designed and implemented 5 MySQL tables using RSA encryption to securely store company data, reducing the risk of data breaches by 90%.
-        + Implemented version control via BitBucket to enable continuous collaborative development and improve team efficiency by a factor of 2.
+        + Analyzed data to provide actionable business insights, creating 50 visualizations using PowerBI and Power Query.
+        + Utilized XRMToolbox to capture real-time data, ensuring accurate and timely information for project analytics.
+        + Executed a comprehensive gap analysis on data collection methods via Dynamics 365 Business Central, enhancing overall data efficiency.
+        + Maintained weekly client communication, actively gathering requirements and incorporating feedback for project alignment with client goals.
+    # - company: IndiaReads Ltd
+    #   link: 
+    #   # tags: Internship
+    #   date: Jan 2018 - Jul 2018
+    #   role: Web Developer Intern (Internship)
+    #   # location: Delhi, India
+    #   description: |
+    #     + Developed 15 efficient REST APIs to fetch information from a MySQL database for the updated website at a faster rate, resulting in a 2x increase in website traffic.
+    #     + Designed and implemented 5 MySQL tables using RSA encryption to securely store company data, reducing the risk of data breaches by 90%.
+    #     + Implemented version control via BitBucket to enable continuous collaborative development and improve team efficiency by a factor of 2.
 
 
 
-    - company: Iksula Services
-      link: 'https://iksula.com/'
-      # tags: Internship
-      date: May 2017 - Jun 2017
-      role: Python Developer Intern (Internship)
-      # location: Mumbai, India
-      description: |
-        + Designed and implemented a fraud detection system using image recognition and machine learning for eCommerce platforms.
-        + Developed a training model employing the tesseract library for text recognition in images, with a focus on 40 commonly used fonts.
-        + Compiled a comprehensive training dataset consisting of images containing embedded text to enhance the model's performance.
-        + Developed an automated email spam filter script in Python, causing a 1-hour weekly time savings for manual tasks.
+    # - company: Iksula Services
+    #   link: 'https://iksula.com/'
+    #   # tags: Internship
+    #   date: May 2017 - Jun 2017
+    #   role: Python Developer Intern (Internship)
+    #   # location: Mumbai, India
+    #   description: |
+    #     + Designed and implemented a fraud detection system using image recognition and machine learning for eCommerce platforms.
+    #     + Developed a training model employing the tesseract library for text recognition in images, with a focus on 40 commonly used fonts.
+    #     + Compiled a comprehensive training dataset consisting of images containing embedded text to enhance the model's performance.
+    #     + Developed an automated email spam filter script in Python, causing a 1-hour weekly time savings for manual tasks.
 
 
 project:
