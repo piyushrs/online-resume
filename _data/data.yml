@@ -145,12 +145,27 @@ project:
   description: 
 
   items:
-    - name: Blood Donation Database Management
-      # tags: MySQL
-      date: May 2022 - Jul 2022
+    - name: Deep Learning Image Classification of Dog Breeds
+    # tags: Deep Learning
+      link: 'https://github.com/piyushrs/kaggle_comp'
+      date: Aug 2022 - Dec 2022
       description: |
-        + Designed a patient and donor record management system consisting of 17 tables normalized up to the third form.
-        +	Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency.
+        + Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. 
+        + Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model. 
+        + Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
+
+    # - name: Blood Donation Database Management
+    #   # tags: MySQL
+    #   link: 'https://github.com/piyushrs/Blood-Donation-DB'
+    #   date: May 2022 - Jul 2022
+        description: + Designed a patient and donor record management system consisting of 17 tables normalized up to the third form. +	Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency.
+
+    - name: Analyzing Car Accident Dataset
+      date: Aug 2022 - Dec 2022
+      description: |
+        + Performed data cleaning, normalization, and preprocessing in Python on 60,000 rows for spam and non-spam email classification sender URLs.
+        + Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance our findings.
+        + Developed an ensemble machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
 
 
     - name: Spam URL filtering
@@ -161,13 +176,7 @@ project:
         +	Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance our findings.
         + Developed an custom ensemble machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
     
-    - name: Deep Learning Image Classification of Dog Breeds
-      # tags: Deep Learning
-      date: Aug 2022 - Dec 2022
-      description: |
-        + Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. 
-        + Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model. 
-        + Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
+
 
 
 
