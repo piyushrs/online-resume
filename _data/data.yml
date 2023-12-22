@@ -6,7 +6,7 @@ basic:
 
 contact:
   # meta
-  location: Richardson, TX # location
+  location: Dallas, TX # location
   email: piyushraisinghani09@gmail.com    # email address
   phone: +1 945-444-0742 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   # website: linkedin.com/in/piyush-raisinghani/     # site URL without schema, like example.com, will automatically prepand "https://"
@@ -78,10 +78,10 @@ contact:
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
 profile:
-  show: true
+  show: false
   order: 1
   title: Summary
-  description: Graduating in December 2023 and looking to join a company long-term to grow in.
+  # description: 
   # description: Experienced IT professional actively seeking DBA roles in cloud services, leveraging 5+ years of expertise across diverse domains of the industry. Proficient in managing and optimizing database systems.
     
 experience:
@@ -240,9 +240,9 @@ education:
   items:
     - institution: The University of Texas at Dallas
       link: 'https://www.utdallas.edu/'
-      date: Graduation December 2023
+      date: Jan 2022 - Dec 2023
       major: M.S. Business Analytics - Data Science Track
-      degree: GPA 3.66
+      degree: GPA 3.69
 
     - institution: Manipal Institute of Technology
       link: 'https://manipal.edu/mit.html'
