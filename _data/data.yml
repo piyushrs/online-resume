@@ -96,20 +96,20 @@ experience:
       role: Data Engineer (Full Time)
       # location: Bengaluru, India
       description: |
-        + Developed ETL pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 2x increase of information retrieval speed for the client.
+        + Developed ETL pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 100% increase of information retrieval speed for the client.
         + Performed intricate SQL operations, including JOINs, Window, and Aggregate functions, to design and tailor custom tables to align with client specifications.
-        + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, saving 2 man days per week.
+        + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, resulting in a 30% reduction of man hours per week.
         + Ensured 100% data quality through preprocessing and error-checking on Azure Databricks in Scala and Python.
-        + Facilitated automated promotion of 4 ETL pipelines from Dev to Prod environment leveraging custom YAML Azure DevOps pipelines saving ~2 hours in manual effort per ETL pipeline.
-        + Collaborated with cross-functional teams, including product, development, operations, and clients, to define project requirements and documented them in Azure DevOps Boards.
+        + Facilitated automated promotion of 4 ETL pipelines from Dev to Prod environment leveraging custom YAML Azure DevOps pipelines, resulting in a ~50% reduction in manual effort per ETL pipeline.
+        + Partnered with key business and technical stakeholders to define work deliverables, project task list, documented them in Azure DevOps Boards and receive weekly feedbacks which in turn increased the customer satisfaction by 60%.
 
     - company: Imperium Data Networks
       link: 'https://imperiumdatanetworks.com/'
       date: Aug 2023 - Nov 2023
       role: Data Analyst Intern (Internship)
       description: |
-        + Analyzed data to provide actionable business insights, creating over 100 visualizations using PowerBI and Power Query.
-        + Utilized XRMToolbox to capture real-time data, ensuring accurate and timely information for project analytics.
+        + Analyzed data to provide actionable business insights, creating over 100 visualizations using PowerBI and Power Query, which resulted in 50% efficiency in data analysis.
+        + Utilized XRMToolbox to capture real-time data, ensuring 100% accurate and timely information for project analytics.
         + Executed a comprehensive gap analysis on data collection methods via Dynamics 365 Business Central, enhancing overall data efficiency.
         + Maintained weekly client communication, actively gathering requirements and incorporating feedback for project alignment with client goals.
     # - company: IndiaReads Ltd
@@ -151,7 +151,7 @@ project:
       date: Aug 2022 - Dec 2022
       description: |
         + Leveraged a diverse range of advanced deep learning architectures, employing 8 different models to achieve accurate and robust classification results. 
-        + Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the convnext small model. 
+        + Demonstrated expertise in hyperparameter tuning and image augmentation techniques, resulting in an impressive 96% accuracy rate with the ConvNeXT small model. 
         + Implemented various deep learning techniques such as convolutional neural networks (CNNs) and transfer learning to improve accuracy and generalization.
 
       #  name: Blood Donation Database Management
@@ -168,7 +168,7 @@ project:
       description: |
         + Performed data cleaning, normalization, and preprocessing in Python on 60,000 rows for spam and non-spam email classification sender URLs.
         + Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance our findings.
-        + Developed an ensemble machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
+        + Developed an ensemble machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, K-Nearest Neighbor and SVM.
 
 
     - name: Spam URL filtering
@@ -177,7 +177,7 @@ project:
       description: |
         +	Performed data cleaning, normalization, and preprocessing in Python on 60,000 rows for spam and non-spam email classification sender URLs.
         +	Utilized descriptive statistics, data distribution models like normal distributions, correlation, and regression techniques to enhance our findings.
-        + Developed an custom ensemble machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, k-NN and SVM.
+        + Developed an custom ensemble machine learning model with 96% accuracy to classify spam and non-spam sender URLs using various classification algorithms, including Random Forest, Naive Bayes, Decision Trees, K-Nearest Neighbor and SVM.
     
 
 
@@ -381,16 +381,16 @@ organization:
     F1 VISA, Eligible to work in the US for internships and full time for up to 36 months
 
 language:
-  show: false
+  show: true
   order: 11
   title: Languages
-  description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
+  # description: 
+    # The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
 
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
+    # It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
 
   items:
-    - idiom: Chinese
+    - idiom: Hindi
       level: Native
     - idiom: English
       level: Professional
