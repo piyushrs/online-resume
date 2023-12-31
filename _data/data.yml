@@ -97,7 +97,7 @@ experience:
       # location: Bengaluru, India
       description: |
         + Developed ETL pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 100% increase of information retrieval speed for the client.
-        + Performed intricate SQL operations, including JOINs, Window, and Aggregate functions, to design and tailor custom tables to align with client specifications.
+        + Performed intricate SQL operations, including JOINs, Window, and Aggregate functions, resulting in a 30% improvement in database efficiency by designing and tailoring custom tables to precisely align with client specifications.
         + Designed and implemented 4 Azure DevOps dashboards with multiple widgets, resulting in a 30% reduction of man hours per week.
         + Ensured 100% data quality through preprocessing and error-checking on Azure Databricks in Scala and Python.
         + Facilitated automated promotion of 4 ETL pipelines from Dev to Prod environment leveraging custom YAML Azure DevOps pipelines, resulting in a ~50% reduction in manual effort per ETL pipeline.
