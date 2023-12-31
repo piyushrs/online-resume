@@ -150,7 +150,7 @@ project:
       link: 'https://github.com/piyushrs/kaggle_comp'
       date: Aug 2022 - Dec 2022
       description: |
-        + Utilized 8 advanced deep learning models with expert hyperparameter tuning and image augmentation, achieving a 96% accuracy rate with the convnext small model.
+        + Utilized 8 advanced deep learning models with expert hyperparameter tuning and image augmentation, achieving a 96% accuracy rate with the ConvNeXT small model.
 
       #  name: Blood Donation Database Management
       #   # tags: MySQL
