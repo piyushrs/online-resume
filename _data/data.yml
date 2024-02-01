@@ -186,22 +186,27 @@ skill:
     - name: Programming
       item:
         - Python
+        - SQL
+        - Splunk SPL
         - Scala
         - R
         - VBA
+        - C++
+        - JavaScript
+        - HTML
+        - CSS
     - name: Tools
       item:
-        - SAS
-        - Azure Cloud
+        - Azure Data Factory
+        - Azure Databricks
+        - Apache Spark
+        - Jupyter Notebooks
+        - Splunk
+        - XRMToolBox
+        - Dynamic 365
         - Tableau
         - PowerBi
-        - Splunk Enterprise
         - Hadoop/Hive
-        - MS Office Suite
-    # - name: Cloud Technologies
-    #   item:
-    #     - Azure (Databricks, Data Factory, Access and Identity Management, Blob Storage)
-
     - name: Database Technologies
       item:
         - Oracle
@@ -215,6 +220,7 @@ skill:
         - Cross Validation
         - Principal Component Analysis
         - Exploratory Data Analysis
+        - A/B Testing
     - name: Machine Learning Algorithms
       item:
         - Linear/Logistic Regression
@@ -376,7 +382,7 @@ organization:
     F1 VISA, Eligible to work in the US for internships and full time for up to 36 months
 
 language:
-  show: true
+  show: false
   order: 11
   title: Languages
   # description: 
