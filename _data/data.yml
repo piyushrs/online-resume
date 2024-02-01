@@ -89,11 +89,21 @@ experience:
   order: 5
   title: Experiences
   items:
+      - company: Imperium Data Networks
+      link: 'https://imperiumdatanetworks.com/'
+      date: Aug 2023 - Dec 2023
+      role: Data Analyst Intern
+      description: |
+        + Analyzed data to provide actionable business insights, creating over 100 visualizations using PowerBI and Power Query, which resulted in 50% efficiency in data analysis.
+        + Utilized XRMToolbox to capture real-time data, achieving a 100% accuracy rate and enhancing project analytics with timely insights.
+        + Executed a comprehensive gap analysis on data collection methods via Dynamics 365 Business Central, resulting in a 25% enhancement in overall data efficiency.
+        + Maintained weekly client communication, resulting in a 96% alignment rate of project deliverables with client goals by actively gathering requirements and incorporating feedback.
+
     - company: Infosys Ltd
       link: 'https://www.infosys.com/'
       # tags: Full-time
       date: Jan 2019 - Dec 2021
-      role: Data Engineer (Full Time)
+      role: Data Engineer - Precursor to LLM
       # location: Bengaluru, India
       description: |
         + Developed ETL pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 100% increase of information retrieval speed for the client.
@@ -103,15 +113,7 @@ experience:
         + Facilitated automated promotion of 4 ETL pipelines from Dev to Prod environment leveraging custom YAML Azure DevOps pipelines, resulting in a ~50% reduction in manual effort per ETL pipeline.
         + Partnered with key business and technical stakeholders to define work deliverables, project task list, documented them in Azure DevOps Boards and receive weekly feedbacks which in turn increased the customer satisfaction by 60%.
 
-    - company: Imperium Data Networks
-      link: 'https://imperiumdatanetworks.com/'
-      date: Aug 2023 - Nov 2023
-      role: Data Analyst Intern (Internship)
-      description: |
-        + Analyzed data to provide actionable business insights, creating over 100 visualizations using PowerBI and Power Query, which resulted in 50% efficiency in data analysis.
-        + Utilized XRMToolbox to capture real-time data, achieving a 100% accuracy rate and enhancing project analytics with timely insights.
-        + Executed a comprehensive gap analysis on data collection methods via Dynamics 365 Business Central, resulting in a 25% enhancement in overall data efficiency.
-        + Maintained weekly client communication, resulting in a 96% alignment rate of project deliverables with client goals by actively gathering requirements and incorporating feedback.
+
     # - company: IndiaReads Ltd
     #   link: 
     #   # tags: Internship
@@ -145,7 +147,7 @@ project:
   description: 
 
   items:
-    - name: Deep Learning Image Classification of Dog Breeds
+    - name: Deep Learning Image Classification of Dog Breeds - UT Dallas
     # tags: Deep Learning
       link: 'https://github.com/piyushrs/kaggle_comp'
       date: Aug 2022 - Dec 2022
@@ -161,18 +163,18 @@ project:
       # Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency. 
 
 
-    - name: Analyzing Car Accident Dataset
+    - name: Analyzing Car Accident Dataset - UT Dallas
       date: Jan 2022 - Apr 2022
       description: |
         + Conducted hypothesis testing to evaluate factors like weather, road signs, and time of day on U.S. accident occurrences, achieving a 64% reduction in dataset size in R from 7.7 million to 2.8 million rows for enhanced processing efficiency.
+        + Designed and executed a series of A/B tests to assess the impact of various factors on accident rates, applying statistical modeling and machine learning techniques to derive actionable insights.
 
 
-    - name: Spam URL filtering
-      # tags: Applied Machine Learning
-      date: Aug 2022 - Dec 2022
-      description: |
-        +	Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
-        +	Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
+    # - name: Spam URL filtering - UT Dallas
+    #   # tags: Applied Machine Learning
+    #   date: Aug 2022 - Dec 2022
+    #   description: Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
+    #   Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
 
 
 skill:
@@ -233,8 +235,9 @@ education:
     - institution: The University of Texas at Dallas
       link: 'https://www.utdallas.edu/'
       date: Jan 2022 - Dec 2023
-      major: M.S. Business Analytics (STEM) - Data Science Track
+      major: M.S. Business Analytics (Applied Machine Learning Cert) - Data Science Track
       degree: GPA 3.69
+      description markdown: Relevant Courses - Applied Machine Learning, Advanced Statistics
 
     - institution: Manipal Institute of Technology
       link: 'https://manipal.edu/mit.html'
