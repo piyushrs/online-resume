@@ -89,7 +89,7 @@ experience:
   order: 5
   title: Experiences
   items:
-      - company: Imperium Data Networks
+    - company: Imperium Data Networks
       link: 'https://imperiumdatanetworks.com/'
       date: Aug 2023 - Dec 2023
       role: Data Analyst Intern
