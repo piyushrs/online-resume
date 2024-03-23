@@ -261,10 +261,10 @@ education:
       degree: GPA 3.69
       description markdown: Relevant Courses
 
-    - institution: Manipal Institute of Technology
-      link: 'https://manipal.edu/mit.html'
-      date: Aug 2014 - Jul 2018
-      major: B.Tech. Computers and Communication Engineering
+    # - institution: Manipal Institute of Technology
+    #   link: 'https://manipal.edu/mit.html'
+    #   date: Aug 2014 - Jul 2018
+    #   major: B.Tech. Computers and Communication Engineering
 
 certificate:
   show: true
