@@ -89,10 +89,21 @@ experience:
   order: 5
   title: Experiences
   items:
+    - company: Opstack Inc.
+      link: 'https://www.opstack.com/'
+      date: Feb 2024 - Present
+      role: AI Engineer Intern
+      location: Dallas, TX
+      description: |
+        + Developed a POC (Proof of Concept) for a service offering utilizing RAG (retrieval-augmented generation) with local LLMs (Large Language Models) using llamaindex API in Python.
+        + Implemented a short-term memory management feature using OpenAI API function calling to enhance model performance, increase context length and facilitate more contextually relevant conversations.
+        + Implementing agentic behavior using CrewAI API on local LLM models to work on specific tasks like stock analysis, coding, etc.
+
     - company: Imperium Data Networks
       link: 'https://imperiumdatanetworks.com/'
       date: Aug 2023 - Dec 2023
       role: Data Analyst Intern
+      location: Dallas, TX
       description: |
         + Analyzed data to provide actionable business insights, creating over 100 visualizations using PowerBI and Power Query, which resulted in 50% efficiency in data analysis.
         + Utilized XRMToolbox to capture real-time data, achieving a 100% accuracy rate and enhancing project analytics with timely insights.
@@ -147,12 +158,19 @@ project:
   description: 
 
   items:
+    - name: Local LLM SEO Analysis
+      link: 'https://github.com/piyushrs/LLM_SEO_Analysis'
+      date: Feb 2024
+      description: |
+        + Built a user-friendly offline tool scraping website content and leveraging a local LLM for in-depth SEO insights, presented through a beautiful front-end.
+        + Increased SEO analysis speed by 96% (from 5 minutes to 5 seconds) through efficient caching implementation.
+        + Leveraged Python (Flask), Beautiful Soup, and LlamaIndex API on the backend for efficient data processing, and designed a user-friendly front-end with HTML, CSS, and JavaScript.
+
     - name: Deep Learning Image Classification of Dog Breeds - UT Dallas
     # tags: Deep Learning
       link: 'https://github.com/piyushrs/kaggle_comp'
       date: Aug 2022 - Dec 2022
-      description: |
-        + Utilized 8 advanced deep learning models with expert hyperparameter tuning and image augmentation, achieving a 96% accuracy rate with the ConvNeXT small model.
+      description: + Utilized 8 advanced deep learning models with expert hyperparameter tuning and image augmentation, achieving a 96% accuracy rate with the ConvNeXT small model.
 
       #  name: Blood Donation Database Management
       #   # tags: MySQL
@@ -163,11 +181,9 @@ project:
       # Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency. 
 
 
-    - name: Analyzing Car Accident Dataset - UT Dallas
-      date: Jan 2022 - Apr 2022
-      description: |
-        + Conducted hypothesis testing to evaluate factors like weather, road signs, and time of day on U.S. accident occurrences, achieving a 64% reduction in dataset size in R from 7.7 million to 2.8 million rows for enhanced processing efficiency.
-        + Designed and executed a series of A/B tests to assess the impact of various factors on accident rates, applying statistical modeling and machine learning techniques to derive actionable insights.
+    # - name: Analyzing Car Accident Dataset - UT Dallas
+      # date: Jan 2022 - Apr 2022
+      # description: + Conducted hypothesis testing to evaluate factors like weather, road signs, and time of day on U.S. accident occurrences, achieving a 64% reduction in dataset size in R from 7.7 million to 2.8 million rows for enhanced processing efficiency. + Designed and executed a series of A/B tests to assess the impact of various factors on accident rates, applying statistical modeling and machine learning techniques to derive actionable insights.
 
 
     # - name: Spam URL filtering - UT Dallas
