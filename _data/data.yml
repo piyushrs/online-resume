@@ -114,8 +114,8 @@ experience:
       link: 'https://www.infosys.com/'
       # tags: Full-time
       date: Jan 2019 - Dec 2021
-      role: Data Engineer - Precursor to LLM
-      # location: Bengaluru, India
+      role: Data Engineer
+      location: Bengaluru, India
       description: |
         + Developed ETL pipelines to migrate 15 legacy processes from Hive to Azure Services, resulting in a 100% increase of information retrieval speed for the client.
         + Performed intricate SQL operations, including JOINs, Window, and Aggregate functions, resulting in a 30% improvement in database efficiency by designing and tailoring custom tables to precisely align with client specifications.
@@ -125,30 +125,30 @@ experience:
         + Partnered with key business and technical stakeholders to define work deliverables, project task list, documented them in Azure DevOps Boards and receive weekly feedbacks which in turn increased the customer satisfaction by 60%.
 
 
-    # - company: IndiaReads Ltd
-    #   link: 
-    #   # tags: Internship
-    #   date: Jan 2018 - Jul 2018
-    #   role: Web Developer Intern (Internship)
-    #   # location: Delhi, India
-    #   description: |
-    #     + Developed 15 efficient REST APIs to fetch information from a MySQL database for the updated website at a faster rate, resulting in a 2x increase in website traffic.
-    #     + Designed and implemented 5 MySQL tables using RSA encryption to securely store company data, reducing the risk of data breaches by 90%.
-    #     + Implemented version control via BitBucket to enable continuous collaborative development and improve team efficiency by a factor of 2.
+    - company: IndiaReads Ltd
+      link: 
+      # tags: Internship
+      date: Jan 2018 - Jul 2018
+      role: Web Developer Intern 
+      location: Delhi, India
+      description: |
+        + Developed 15 efficient REST APIs to fetch information from a MySQL database for the updated website at a faster rate, resulting in a 2x increase in website traffic.
+        + Designed and implemented 5 MySQL tables using RSA encryption to securely store company data, reducing the risk of data breaches by 90%.
+        + Implemented version control via BitBucket to enable continuous collaborative development and improve team efficiency by a factor of 2.
 
 
 
-    # - company: Iksula Services
-    #   link: 'https://iksula.com/'
-    #   # tags: Internship
-    #   date: May 2017 - Jun 2017
-    #   role: Python Developer Intern (Internship)
-    #   # location: Mumbai, India
-    #   description: |
-    #     + Designed and implemented a fraud detection system using image recognition and machine learning for eCommerce platforms.
-    #     + Developed a training model employing the tesseract library for text recognition in images, with a focus on 40 commonly used fonts.
-    #     + Compiled a comprehensive training dataset consisting of images containing embedded text to enhance the model's performance.
-    #     + Developed an automated email spam filter script in Python, causing a 1-hour weekly time savings for manual tasks.
+    - company: Iksula Services
+      link: 'https://iksula.com/'
+      # tags: Internship
+      date: May 2017 - Jun 2017
+      role: Python Developer Intern 
+      location: Mumbai, India
+      description: |
+        + Designed and implemented a fraud detection system using image recognition and machine learning for eCommerce platforms.
+        + Developed a training model employing the tesseract library for text recognition in images, with a focus on 40 commonly used fonts.
+        + Compiled a comprehensive training dataset consisting of images containing embedded text to enhance the model's performance.
+        + Developed an automated email spam filter script in Python, causing a 1-hour weekly time savings for manual tasks.
 
 
 project:
@@ -172,25 +172,25 @@ project:
       date: Aug 2022 - Dec 2022
       description: + Utilized 8 advanced deep learning models with expert hyperparameter tuning and image augmentation, achieving a 96% accuracy rate with the ConvNeXT small model.
 
-      #  name: Blood Donation Database Management
-      #   # tags: MySQL
-      #   link: 'https://github.com/piyushrs/Blood-Donation-DB'
-      #   date: May 2022 - Jul 2022
-      #   description: |
-      # Designed a patient and donor record management system consisting of 17 tables normalized up to the third form. 
-      # Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency. 
+       name: Blood Donation Database Management
+        # tags: MySQL
+        link: 'https://github.com/piyushrs/Blood-Donation-DB'
+        date: May 2022 - Jul 2022
+        description: |
+      Designed a patient and donor record management system consisting of 17 tables normalized up to the third form. 
+      Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency. 
 
 
-    # - name: Analyzing Car Accident Dataset - UT Dallas
-      # date: Jan 2022 - Apr 2022
-      # description: + Conducted hypothesis testing to evaluate factors like weather, road signs, and time of day on U.S. accident occurrences, achieving a 64% reduction in dataset size in R from 7.7 million to 2.8 million rows for enhanced processing efficiency. + Designed and executed a series of A/B tests to assess the impact of various factors on accident rates, applying statistical modeling and machine learning techniques to derive actionable insights.
+    - name: Analyzing Car Accident Dataset - UT Dallas
+      date: Jan 2022 - Apr 2022
+      description: + Conducted hypothesis testing to evaluate factors like weather, road signs, and time of day on U.S. accident occurrences, achieving a 64% reduction in dataset size in R from 7.7 million to 2.8 million rows for enhanced processing efficiency. + Designed and executed a series of A/B tests to assess the impact of various factors on accident rates, applying statistical modeling and machine learning techniques to derive actionable insights.
 
 
-    # - name: Spam URL filtering - UT Dallas
-    #   # tags: Applied Machine Learning
-    #   date: Aug 2022 - Dec 2022
-    #   description: Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
-    #   Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
+    - name: Spam URL filtering - UT Dallas
+      # tags: Applied Machine Learning
+      date: Aug 2022 - Dec 2022
+      description: Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
+      Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
 
 
 skill:
