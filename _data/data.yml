@@ -183,7 +183,9 @@ project:
 
     - name: Analyzing Car Accident Dataset - UT Dallas
       date: Jan 2022 - Apr 2022
-      description: + Conducted hypothesis testing to evaluate factors like weather, road signs, and time of day on U.S. accident occurrences, achieving a 64% reduction in dataset size in R from 7.7 million to 2.8 million rows for enhanced processing efficiency. + Designed and executed a series of A/B tests to assess the impact of various factors on accident rates, applying statistical modeling and machine learning techniques to derive actionable insights.
+      description: |
+        + Conducted hypothesis testing to evaluate factors like weather, road signs, and time of day on U.S. accident occurrences, achieving a 64% reduction in dataset size in R from 7.7 million to 2.8 million rows for enhanced processing efficiency. 
+        + Designed and executed a series of A/B tests to assess the impact of various factors on accident rates, applying statistical modeling and machine learning techniques to derive actionable insights.
 
 
     - name: Spam URL filtering - UT Dallas
