@@ -174,11 +174,11 @@ project:
 
     - name: Blood Donation Database Management
         # tags: MySQL
-        link: 'https://github.com/piyushrs/Blood-Donation-DB'
-        date: May 2022 - Jul 2022
-        description: |
-      Designed a patient and donor record management system consisting of 17 tables normalized up to the third form. 
-      Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency. 
+      link: 'https://github.com/piyushrs/Blood-Donation-DB'
+      date: May 2022 - Jul 2022
+      description: |
+        + Designed a patient and donor record management system consisting of 17 tables normalized up to the third form. 
+        + Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency. 
 
 
     - name: Analyzing Car Accident Dataset - UT Dallas
@@ -189,8 +189,9 @@ project:
     - name: Spam URL filtering - UT Dallas
       # tags: Applied Machine Learning
       date: Aug 2022 - Dec 2022
-      description: Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
-      Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
+      description: |
+      + Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
+      + Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
 
 
 skill:
