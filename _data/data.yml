@@ -190,8 +190,8 @@ project:
       # tags: Applied Machine Learning
       date: Aug 2022 - Dec 2022
       description: |
-      + Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
-      + Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
+        + Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
+        + Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
 
 
 skill:
