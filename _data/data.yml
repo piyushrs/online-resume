@@ -195,6 +195,12 @@ project:
         + Cleaned, normalized, and preprocessed 60,000 email rows in Python for spam and non-spam classification, while utilizing descriptive statistics and regression techniques.
         + Developed a 96% accurate ensemble machine learning model for sender URL classification using algorithms like Random Forest, Naive Bayes, Decision Trees, k-NN, and SVM.
 
+    - name: Risk Analytics in Banking and Financial Services - UT Dallas
+      date: July 2022
+      description: |
+        + Conducted a comprehensive analysis of credit case study data to identify correlations between education level, car ownership, and real estate ownership with default rates, uncovering key insights that informed strategic decision-making.
+        + Utilized data visualization techniques to create informative plots and heatmaps that revealed trends and patterns in the relationship between total income categories and education levels.
+
 
 skill:
   show: true
