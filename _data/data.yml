@@ -179,7 +179,12 @@ project:
       description: |
         + Designed a patient and donor record management system consisting of 17 tables normalized up to the third form. 
         + Created 5 triggers, 8 stored procedures, and 1 event to ensure 100% data integrity and consistency. 
-
+    
+    - name: KPMG Appian Hackathon
+      date: April 2023
+      description: |
+        + Designed and developed an asset management website using Appian for 3 different user personas with different job functions and permissions. 
+        +	Mapped business processes in Appian, driving a 15% increase in overall workflow automation and optimizing operational effectiveness through streamlined processes.
 
     - name: Analyzing Car Accident Dataset - UT Dallas
       date: Jan 2022 - Apr 2022
