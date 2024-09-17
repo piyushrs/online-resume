@@ -89,9 +89,18 @@ experience:
   order: 5
   title: Experiences
   items:
+    - company: EY
+      link: ''
+      date: Aug 2024 - Present
+      role: Senior Technology Consultant
+      location: Mumbai, IN
+      description: |
+        + Evaluated 3 tools for SOC AI Assistant for a project (in progress). 
+        + Gave suggestions to improve on-boarding to adhere with EY goals and missions (in progress).
+
     - company: Opstack Inc.
       link: 'https://www.opstack.com/'
-      date: Feb 2024 - Present
+      date: Feb 2024 - Aug 2024
       role: AI Engineer Intern
       location: Dallas, TX
       description: |
