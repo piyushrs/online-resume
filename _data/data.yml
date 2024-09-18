@@ -179,7 +179,7 @@ project:
     # tags: Deep Learning
       link: 'https://github.com/piyushrs/kaggle_comp'
       date: Aug 2022 - Dec 2022
-      description: + Utilized 8 advanced deep learning models with expert hyperparameter tuning and image augmentation, achieving a 96% accuracy rate with the ConvNeXT small model.
+      description: + Utilized 8 advanced deep learning models with expert hyperparameter tuning and image augmentation, achieving a 96% accuracy rate with the ConvNeXT small model using PyTorch library.
 
     - name: Blood Donation Database Management
         # tags: MySQL
@@ -246,6 +246,7 @@ skill:
         - Tableau
         - PowerBi
         - Hadoop/Hive
+        - PyTorch
     - name: Database Technologies
       item:
         - Oracle
