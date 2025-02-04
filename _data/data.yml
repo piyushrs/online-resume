@@ -6,9 +6,9 @@ basic:
 
 contact:
   # meta
-  location: Dallas, TX # location
+  location: Mumbai, India # location
   email: piyushraisinghani09@gmail.com    # email address
-  phone: +1 945-444-0742 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +91 (885) 073-5710 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   # website: linkedin.com/in/piyush-raisinghani/     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
@@ -90,13 +90,17 @@ experience:
   title: Experiences
   items:
     - company: EY
-      link: ''
+      link: 'https://www.ey.com/en_in'
       date: Aug 2024 - Present
       role: Senior Technology Consultant
       location: Mumbai, IN
       description: |
-        + Evaluated 3 tools for SOC AI Assistant for a project (in progress). 
-        + Gave suggestions to improve on-boarding to adhere with EY goals and missions (in progress).
+        + Evaluated five tools for SOC AI Assistant which help SOC teams minimize their manual work by ~70%. 
+        + Developed a custom parser to ingest Cisco ISE data in Google SecOps for a client.
+        + Translated 50+ detections in YARA-L 2.0 from SPL in Google SecOps for a client.
+        + Peer reviewed work developed by other team members and provided guidance wherever necessary.
+        + Translated 10 detections in CQL from SPL in Crowdstrike NextGen SIEM for a client.
+        + Developed a cyber tool capability dashboard utilizing 2 Excel files with 10+ sheets and complex relationships amongst them.
 
     - company: Opstack Inc.
       link: 'https://www.opstack.com/'
