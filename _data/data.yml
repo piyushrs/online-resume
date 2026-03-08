@@ -95,6 +95,8 @@ experience:
       role: Senior Technology Consultant
       location: Mumbai, IN
       description: |
+        + Designed and implemented a parameterized Azure Synapse pipeline that automates end-to-end incident data loading for 8 clients, dynamically resuming dedicated SQL pools, creating staging tables, ingesting latest CSVs from ADLS, performing upserts, and truncating staging tables for idempotent reloads.
+        + Architected end-to-end Azure Synapse pipelines ingesting data from 8 Log Analytics workspaces into Azure Data Lake; built parameterized reusable pipeline eliminating redundant development across all 8 clients.
         + Automated Power BI dashboard updates by converting 12 Jupyter notebook workflows into production-grade Python scripts with structured logging, eliminating 100% of manual update effort.
         + Implemented a best-practice environment strategy by convincing stakeholders to separate production and development environments, then successfully led the setup of both new environments.
         + Created and presented weekly status update decks to stakeholders, improving project transparency and alignment, with 100% on-time delivery.
