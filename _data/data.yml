@@ -96,7 +96,8 @@ experience:
       location: Mumbai, IN
       description: |
         + Designed and implemented a parameterized Azure Synapse pipeline that automates end-to-end incident data loading for 8 clients, dynamically resuming dedicated SQL pools, creating staging tables, ingesting latest CSVs from ADLS, performing upserts, and truncating staging tables for idempotent reloads.
-        + Architected end-to-end Azure Synapse pipelines ingesting data from 8 Log Analytics workspaces into Azure Data Lake; built parameterized reusable pipeline eliminating redundant development across all 8 clients.
+        + Engineered a looped Azure Synapse pipeline automating full upsert lifecycle — pool resume, staging table creation, CSV ingestion from ADLS, upsert to main table, and truncation — across 8 client dedicated SQL pools tables.
+        + Built 40+ parameterized reusable pipelines to ingest multiple file types into Synapse dedicated SQL pool tables.
         + Built JSON flattening and Parquet conversion pipelines, and authored CREATE/COPY scripts to load data into dedicated SQL pools, enabling high-performance downstream reporting.
         + Automated Power BI dashboard updates by converting 12 Jupyter notebook workflows into production-grade Python scripts with structured logging, eliminating 100% of manual update effort.
         + Implemented a best-practice environment strategy by convincing stakeholders to separate production and development environments, then successfully led the setup of both new environments.
