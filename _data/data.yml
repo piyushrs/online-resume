@@ -82,7 +82,7 @@ profile:
   order: 1
   title: Summary
   # description: 
-  # description: Experienced IT professional actively seeking DBA roles in cloud services, leveraging 5+ years of expertise across diverse domains of the industry. Proficient in managing and optimizing database systems.
+  description: Senior BI & Data Engineer with 4+ years of experience building production ETL pipelines, data warehouse solutions, and end-to-end BI reporting systems. Hands-on expertise in SQL, Power BI, Tableau, Apache Spark, Python, and Scala. Track record of delivering automated dashboards, scalable data architectures, and cross-functional analytics products for enterprise clients. Comfortable working in agile squads, driving CI/CD practices, and translating complex data into actionable business insights for executive stakeholders.
     
 experience:
   show: true
